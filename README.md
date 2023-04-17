@@ -6,6 +6,7 @@ OMDb API
 The Open Movie Database - The OMDb API is a RESTful web service to obtain movie information
 
 #steps
+
   -First we have to create a Api key to fetch the movie details 
   - Send all the data request to this URL (http://www.omdbapi.com/?apikey=[yourkey]&) with your api key attached to it
   - then recieve the data and manipulate the data accordingly
