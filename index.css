@@ -1,5 +1,25 @@
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 body {
   
   color: white;
@@ -23,11 +43,7 @@ body {
 }
 
 
-/* .site-name {
-  color: var(--logo-color);
-  position: absolute;
-  top: 0;
-} */
+
 
 #search-bar {
   height: 40px;
@@ -66,17 +82,7 @@ input {
   color: white
 }
 
-/* #search-btn {
-  height: 2.9rem;
-  width: 4.5rem;
-  border: transparent;
-  background-color: var(--logo-color);
-} */
 
-/* .search-icon {
-  font-size: 25px;
-  color: var(--search-icon-color);
-} */
 
 #show-favourites {
   display: none;
@@ -101,8 +107,7 @@ h2 {
   background-image: url(./images/banner2.jpg);
   background-position: center;
   background-size: cover;
-  /* opacity: 0.5; */
-  /* z-index: 100; */
+ 
 }
 
 #Suggestions-container {
@@ -111,7 +116,7 @@ h2 {
   padding: 2rem;
 }
 
-/* card  */
+/* card  view*/
 
 a {
   box-sizing: border-box;
